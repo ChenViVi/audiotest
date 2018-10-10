@@ -73,7 +73,7 @@ fun clickFix(view : View) {
 
 #### 成果
 
-[TarsosDSPTest](https://github.com/ChenViVi/audiotest/tree/master/TarsosDSPTest)，采坑无数后终于可以播放音乐，并能添加各种不知道是什么特效的特效了，至于为什么不知道，这个项目坑就坑在文档不全
+[TarsosDSPTest](https://github.com/ChenViVi/audiotest/tree/master/TarsosDSPTest)，踩坑无数后终于可以播放音乐，并能添加各种不知道是什么特效的特效了，至于为什么不知道，这个项目坑就坑在文档不全
 
 这里是 [MainActivity.java ](https://github.com/ChenViVi/audiotest/blob/346b6534a0477208f7b309ded855f9de5f5c60c4/TarsosDSPTest/app/src/main/java/com/iwritebug/myapplication/MainActivity.java)中添加特效并播放的方法
 
